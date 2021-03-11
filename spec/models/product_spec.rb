@@ -36,8 +36,4 @@ RSpec.describe Product, type: :model do
       end
     end
   end
-
-
-
-
 end
